@@ -49,7 +49,7 @@ Here's the breakdown of the top 10 data science jobs in 2023:
 * **Diverse Employeers:** Companies like Easter River Electric Power Cooperative, Inc., ReServe, Selby Jennings, and Netflix are among those offering salaries, showing a broad interest across varying industries.
 * **Job Title Variety:** There was a variety of job titles, from Data Scientist to Geopgraphic Information Systems Analyst, reflecting varied roels and specilizations within the field of data science. 
 
-![Top Paying Roles](assets\avg_salary_top_10_jobs.png)
+![Top Paying Roles](avg_salary_top_10_jobs.png)
 *Bar grapgh visualizing the salary for the top 10 salaries for data scientists; Generated using python from SQL query results.*
 
 
